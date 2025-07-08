@@ -11,3 +11,5 @@ Deal with file paths cross-platform.
 
     os.path.samefile()
 """
+import os
+
